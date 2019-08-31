@@ -3,11 +3,11 @@ Tebas Index
 
 Cara Membuka Script
 
-$git clone https://github.com/MonkeyOren/tebas index
+$git clone https://github.com/MonkeyOren/tebas 
 
 $cd tebas
 $sh tebas.sh
 
 
-Subscribe to MonkeyOren
+Subscribe to Chanel MonkeyOren
 ^_^
